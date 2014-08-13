@@ -20,9 +20,8 @@ If you are using Maven, add the following repository definition to your `pom.xml
 
 With Leiningen:
 
-``` clj
 [![Clojars Project](http://clojars.org/clj-time/latest-version.svg)](http://clojars.org/clj-time)
-```
+
 
 With Maven:
 
